@@ -1,1 +1,8 @@
 FlashDevelopのシンタックスカラーリング
+
+自分でシンタックスカラーリングをバックアップするには、
+FlashDevelopのTools->Syntax Coloring -> 下のExport Filesアイコンをクリック
+
+インポートするには、
+fdzファイルがFlashDevelopに関連付けられていることを確認して、
+fdzファイルをダブルクリック
